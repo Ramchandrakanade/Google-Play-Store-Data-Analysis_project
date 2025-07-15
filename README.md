@@ -44,6 +44,10 @@ Are higher-rated apps also the most installed?
 
 What impact does content rating (Everyone, Teen, etc.) have on installs?
 
+## Dashboard
+
+<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/50945632-599c-4d43-b6ac-13c55133527a" />
+
 
 
  ## ✅ Key Features of the Project
