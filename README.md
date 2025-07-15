@@ -23,7 +23,7 @@ This project is a data analysis notebook focused on exploring and visualizing th
 
 ## 📁 Files
 - <a href="https://github.com/Ramchandrakanade/Google-Play-Store-Data-Analysis_project/blob/main/google_play_store_apps.csv">ExcelDataset</a>
-- <a href="zomato,project.ipynb">code </a>
+- <a href="https://github.com/Ramchandrakanade/Google-Play-Store-Data-Analysis_project/blob/main/playstore.ipynb">code </a>
 - `playstore.ipynb` – Main analysis notebook
 - `google_play_store_apps.csv` – Dataset file (not included here)
 
