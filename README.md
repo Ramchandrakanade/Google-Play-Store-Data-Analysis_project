@@ -26,6 +26,25 @@ This project is a data analysis notebook focused on exploring and visualizing th
 - `playstore.ipynb` – Main analysis notebook
 - `google_play_store_apps.csv` – Dataset file (not included here)
 
+❓ Questions (KIPs)
+What categories of apps are most common on the Play Store?
+
+Which app categories have the highest average user rating?
+
+Is there a relationship between app size and user rating?
+
+Do paid apps have better ratings than free apps?
+
+Which apps have the highest number of installs and reviews?
+
+What is the pricing trend across different app categories?
+
+Are higher-rated apps also the most installed?
+
+What impact does content rating (Everyone, Teen, etc.) have on installs?
+
+
+
  ## ✅ Key Features of the Project
 Comprehensive Data Cleaning
 
