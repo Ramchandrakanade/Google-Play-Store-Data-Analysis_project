@@ -22,13 +22,17 @@ This project is a data analysis notebook focused on exploring and visualizing th
 - Seaborn
 
 ## 📁 Files
-- <a href="https://github.com/Ramchandrakanade/Zomato-Data-Analysis-Dashboard/blob/main/Zomato%20data%20.csv">ExcelDataset</a>
+- <a href="https://github.com/Ramchandrakanade/Google-Play-Store-Data-Analysis_project/blob/main/google_play_store_apps.csv">ExcelDataset</a>
 - `playstore.ipynb` – Main analysis notebook
 - `google_play_store_apps.csv` – Dataset file (not included here)
 
-## 🚀 Getting Started
+ ## ✅ Key Features of the Project
+Comprehensive Data Cleaning
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/playstore-analysis.git
-   cd playstore-analysis
+Removed duplicates, handled missing and inconsistent data
+
+Standardized formats for numeric fields like Installs, Size, Price
+
+Exploratory Data Analysis (EDA)
+
+
